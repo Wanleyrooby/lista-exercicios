@@ -10,6 +10,7 @@ Um editor de texto como o Visual Studio Code
 1. Clone o repositório:
 
 git clone https://github.com/Wanleyrooby/lista-exercicios.git
+
 cd lista-exercicios
 
 2. Instale o Node.js (se ainda não tiver):
@@ -20,4 +21,5 @@ Baixe e instale a versão LTS para seu sistema operacional.
 3. Execute um exercício:
 
 Você pode rodar qualquer um dos arquivos com o seguinte comando:
+
 node arquivo.js
