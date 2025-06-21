@@ -9,9 +9,9 @@ Um editor de texto como o Visual Studio Code
 🚀 Como configurar e executar localmente
 1. Clone o repositório:
 
-  - git clone https://github.com/Wanleyrooby/lista-exercicios.git
+      git clone https://github.com/Wanleyrooby/lista-exercicios.git
 
-  -  cd lista-exercicios
+      cd lista-exercicios
 
 2. Instale o Node.js (se ainda não tiver):
 
