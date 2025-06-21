@@ -15,11 +15,11 @@ Um editor de texto como o Visual Studio Code
 
 2. Instale o Node.js (se ainda não tiver):
 
-  Acesse o site oficial: https://nodejs.org/
-  Baixe e instale a versão LTS para seu sistema operacional.
+      Acesse o site oficial: https://nodejs.org/
+      Baixe e instale a versão LTS para seu sistema operacional.
 
 3. Execute um exercício:
 
-  Você pode rodar qualquer um dos arquivos com o seguinte comando:
+      Você pode rodar qualquer um dos arquivos com o seguinte comando:
 
-node arquivo.js
+      node arquivo.js
